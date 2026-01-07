@@ -38,7 +38,7 @@ You can download the playable version (**Aureole.jar**) directly from the Releas
 ---
 
 ## 🚀 Key Features
-- **Dynamic Character Control:** Responsive movement for walking, jumping, and attacking.
+- **Dynamic Character Control:** Responsive movement for walking, and attacking.
 - **Enemy AI:** Simple AI behaviors including patrolling and player tracking.
 - **HUD & UI:** Real-time health bars and interactive menus.
 - **Asset Management:** Efficient loading and rendering of sprites and audio resources.
